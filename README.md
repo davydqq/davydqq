@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Davyd</h1>
 <h3 align="center">A passionate software engineer from Ukraine 🇺🇦</h3>
 
-<p align="left"> <a href="https://twitter.com/davydqq" target="blank"><img src="https://img.shields.io/twitter/follow/davydqq?logo=twitter&style=for-the-badge" alt="davydqq" /></a> </p>
-
 - 🔭 I’m currently working on [X Notes](https://xnotes.io/about), [Source code](https://github.com/X-Notes/Web)
 
 - 🌱 I’m currently learning **Swift UI** and **IOS Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/davydqq](https://github.com/davydqq)
+
+- 💪 My main stack: .NET and Angular.
 
 - 💬 Ask me about **.NET, Angular, Sql, No sql, Docker, Azure.**
 
