@@ -114,7 +114,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
   </a> 
 
-<br/>
+<h2 align="left">Stats</h2>
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davydqq&show_icons=true&locale=en&layout=compact" alt="davydqq" /></p>
 
