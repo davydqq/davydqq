@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/davydqq](https://github.com/davydqq)
 
-- 💪 My main stack: **.NET and Angular**.
+- 💪 My main stack **.NET and Angular**.
 
 - 💬 Ask me about **.NET, Angular, Sql, No sql, Docker, Azure, and Architecture.**
 
@@ -21,17 +21,17 @@
 
 <h3 align="left">Languages and Tools</h3>
 <h2 align="left">Frontend</h2>
-<h2 align="left">Backend</h2>
-<h2 align="left">DevOps</h2>
-<p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
   </a> 
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a> 
+<h2 align="left">Backend</h2>
+<h2 align="left">DevOps</h2>
+<p align="left"> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
   <a href="https://bulma.io/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> 
