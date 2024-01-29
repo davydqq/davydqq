@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/davydqq" target="blank"><img src="https://img.shields.io/twitter/follow/davydqq?logo=twitter&style=for-the-badge" alt="davydqq" /></a> </p>
 
-- 🔭 I’m currently working on [X Notes](https://xnotes.io/about),[Source code](https://github.com/X-Notes/Web)
+- 🔭 I’m currently working on [X Notes](https://xnotes.io/about), [Source code](https://github.com/X-Notes/Web)
 
 - 🌱 I’m currently learning **Swift UI** and **IOS Development**
 
