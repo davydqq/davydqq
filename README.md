@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/davydqq](https://github.com/davydqq)
 
-- 💪 My main stack: .NET and Angular.
+- 💪 My main stack: **.NET and Angular**.
 
-- 💬 Ask me about **.NET, Angular, Sql, No sql, Docker, Azure.**
+- 💬 Ask me about **.NET, Angular, Sql, No sql, Docker, Azure, and Architecture.**
 
 - 📫 How to reach me **davydqq@gmail.com**
 
