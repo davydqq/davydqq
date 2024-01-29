@@ -1,4 +1,4 @@
-<h1 align="center">Hi there , I'm Davyd</h1>
+<h1 align="center">Hi there 👋, I'm Davyd</h1>
 <h3 align="center">A passionate software engineer from Ukraine 🇺🇦</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davydqq&label=Profile%20views&color=0e75b6&style=flat" alt="davydqq" /> </p>
@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/davydqq" target="blank"><img src="https://img.shields.io/twitter/follow/davydqq?logo=twitter&style=for-the-badge" alt="davydqq" /></a> </p>
 
-- 🔭 I’m currently working on [X Notes](https://github.com/X-Notes/Web)
+- 🔭 I’m currently working on [X Notes](https://xnotes.io/about),[Source code](https://github.com/X-Notes/Web)
 
-- 🌱 I’m currently learning **Swift UI**
-
-- Visit [X Notes](https://xnotes.io/about)
+- 🌱 I’m currently learning **Swift UI** and **IOS Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/davydqq](https://github.com/davydqq)
 
