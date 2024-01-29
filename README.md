@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Swift UI** and **IOS Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/davydqq](https://github.com/davydqq)
+- 👨‍💻 All of my projects are available at this github
 
 - 💪 My main stack **.NET and Angular**.
 
