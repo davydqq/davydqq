@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [X Notes](https://xnotes.io/about), [Source code](https://github.com/X-Notes/Web)
 
-- 🌱 Currently, I continue to study **Web and .NET** in depth.
+- 🌱 Currently, I continue to study **Web/JS and .NET** in depth.
 
 - 👨‍💻 All of my projects are available at this github
 
