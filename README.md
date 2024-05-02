@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [X Notes](https://xnotes.io/about), [Source code](https://github.com/X-Notes/Web)
 
-- 🌱 I’m currently learning **Swift UI** and **IOS Development**
+- 🌱 Currently, I continue to study **Web and .NET** in depth.
 
 - 👨‍💻 All of my projects are available at this github
 
@@ -108,10 +108,6 @@
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-<h3 align="left">Mobile</h3>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
   </a> 
 
 <h2 align="left">Stats</h2>
