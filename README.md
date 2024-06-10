@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Davyd</h1>
 <h3 align="center">A passionate software engineer from Ukraine 🇺🇦</h3>
 
-- 🔭 I’m currently working on [X Notes](https://xnotes.io/about), [Source code](https://github.com/X-Notes/Web)
-
 - 🌱 Currently, I continue to study **Web/JS and .NET** in depth.
 
 - 👨‍💻 All of my projects are available at this github
